@@ -10,7 +10,7 @@
               <span class="social github"><a href="https://github.com/pineviewlabs" target="_blank">Github</a></span>
             </div>
 
-            <p>© 2022 Middlemarch. All Right Reserved.</p>
+            <p>© 2024 Middlemarch. Все права защищены.</p>
           </div>
         </div>
       </div>
